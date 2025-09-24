@@ -1,0 +1,5 @@
+{
+  "name": "LKPD Pemeriksaan Rem Cakram",
+  "description": "Lembar Kerja Peserta Didik (LKPD) digital untuk pemeriksaan komponen rem cakram pada kendaraan ringan. Memungkinkan siswa untuk mencatat kondisi setiap komponen dan memberikan keterangan.",
+  "requestFramePermissions": []
+}
